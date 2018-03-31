@@ -23,8 +23,8 @@ The page describes contributions I made to coala community.
 
 * Update the bears to match with the examples in the native bears tutorial [coala-tutorial#11](https://github.com/coala/coala-tutorial/pull/11) (merged)
 * FAQ.rst: Fix "ask us!" link [documentation#536](https://github.com/coala/documentation/pull/536) (merged)
-* Review.rst: Update review docs [coala#5200] (https://github.com/coala/coala/pull/5200) (open)
-* Writing native bears tutorials: Parameters changed (https://github.com/coala/coala/pull/5224) (open)
+* Review.rst: Update review docs [coala#5200](https://github.com/coala/coala/pull/5200) (open)
+* Writing native bears tutorials: Parameters changed [coala#5224](https://github.com/coala/coala/pull/5224) (open)
 * PrettierLintBear.py: Add more tests [coala-bears#2341](https://github.com/coala/coala-bears/pull/2341) (open)
 * Makman2/remove rultor [docker-coala-base#252](https://github.com/coala/docker-coala-base/pull/252) (open)
 * Core.py: Removes section from docstring [coala#5271](https://github.com/coala/coala/pull/5271) (merged)
