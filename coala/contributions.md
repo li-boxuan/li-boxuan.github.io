@@ -41,6 +41,7 @@ The page describes contributions I made to coala community.
 * PyLintBear: column number in result violates convention [coala-bears#2393](https://github.com/coala/coala-bears/issues/2393) (open)
 * Add support for writing ignore comment in different languages [coala#5300](https://github.com/coala/coala/issues/5300) (open)
 * coalashim.py: use --limit-files instead of --files flag [coala-vs-code#41](https://github.com/coala/coala-vs-code/issues/41) (open)
+* Diagnostic severity level violates LSP convention [coala-vs-code#43](https://github.com/coala/coala-vs-code/issues/43) (open)
 
 ### PRs I created:
 
