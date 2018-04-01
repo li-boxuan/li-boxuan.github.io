@@ -46,6 +46,7 @@ The page describes contributions I made to coala community.
 
 * Matlab.py: Add comment delimiter for Matlab & Octave [coala#5294](https://github.com/coala/coala/pull/5294) (open)
 * diagnostic.py: Correct row and column number convention [coala-vs-code#39](https://github.com/coala/coala-vs-code/pull/39) (open)
+* coalashim.py: Run coala on specific files only [coala-vs-code#42](https://github.com/coala/coala-vs-code/pull/42) (open)
 
 ### PRs I reviewed:
 
@@ -54,6 +55,6 @@ The page describes contributions I made to coala community.
 * cEP-0001: Fix link to newcomer guide [cEPs#104](https://github.com/coala/cEPs/pull/104) (open)
 * BanditBear: Add `bandit_select_tests` option [coala-bears#2390](https://github.com/coala/coala-bears/pull/2390) (open)
 
-### Other related stuff:
+### Others:
 
 * [vim language client for coala](https://github.com/li-boxuan/coala-LSP-clients/tree/master/vim)
