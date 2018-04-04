@@ -42,6 +42,9 @@ The page describes contributions I made to coala community.
 * Add support for writing ignore comment in different languages [coala#5300](https://github.com/coala/coala/issues/5300) (open)
 * coalashim.py: use --limit-files instead of --files flag [coala-vs-code#41](https://github.com/coala/coala-vs-code/issues/41) (open)
 * Diagnostic severity level violates LSP convention [coala-vs-code#43](https://github.com/coala/coala-vs-code/issues/43) (open)
+* diagnostic.py: End position should be exclusive [coala-vs-code#46](https://github.com/coala/coala-vs-code/issues/46) (open)
+* diagnostic.py: line is None means the whole file [coala-vs-code#47](https://github.com/coala/coala-vs-code/issues/47) (open)
+* Result.py: Add docstring regarding the case that line or column is None [coala#5310](https://github.com/coala/coala/issues/5310) (open)
 
 ### PRs I created:
 
