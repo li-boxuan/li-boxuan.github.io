@@ -36,17 +36,18 @@ The page describes contributions I made to coala community.
 ### Issues I created:
 
 * Add support for writing ignore comment in Fortran [coala#5296](https://github.com/coala/coala/issues/5296) (open)
-* Diagnostic violates LSP convention [coala-vs-code#37](https://github.com/coala/coala-vs-code/issues/37) (open)
+* Diagnostic violates LSP convention [coala-vs-code#37](https://github.com/coala/coala-vs-code/issues/37) (PR merged)
 * Add position number convention to linter bear guide [coala#5297](https://github.com/coala/coala/issues/5297) (open)
 * PyLintBear: column number in result violates convention [coala-bears#2393](https://github.com/coala/coala-bears/issues/2393) (open)
 * Add support for writing ignore comment in different languages [coala#5300](https://github.com/coala/coala/issues/5300) (open)
-* coalashim.py: use --limit-files instead of --files flag [coala-vs-code#41](https://github.com/coala/coala-vs-code/issues/41) (open)
-* Diagnostic severity level violates LSP convention [coala-vs-code#43](https://github.com/coala/coala-vs-code/issues/43) (open)
+* coalashim.py: use --limit-files instead of --files flag [coala-vs-code#41](https://github.com/coala/coala-vs-code/issues/41) (PR merged)
+* Diagnostic severity level violates LSP convention [coala-vs-code#43](https://github.com/coala/coala-vs-code/issues/43) (PR merged)
 * diagnostic.py: End position should be exclusive [coala-vs-code#46](https://github.com/coala/coala-vs-code/issues/46) (open)
 * diagnostic.py: line is None means the whole file [coala-vs-code#47](https://github.com/coala/coala-vs-code/issues/47) (open)
 * Result.py: Add docstring regarding the case that line or column is None [coala#5310](https://github.com/coala/coala/issues/5310) (open)
 * Add unit test [coala-vs-code#49](https://github.com/coala/coala-vs-code/issues/49) (open)
 * Invalid link to GitHub on coala API Documentation [coala#5316](https://github.com/coala/coala/issues/5316) (open)
+* trailing-whitespace reports wrong column number [pylint#2000](https://github.com/PyCQA/pylint/issues/2000) (upstream) (open)
 
 ### PRs I created:
 
@@ -63,6 +64,7 @@ The page describes contributions I made to coala community.
 * Add markdown and flow language definitions [coala#5279](https://github.com/coala/coala/pull/5279) (open)
 * cEP-0001: Fix link to newcomer guide [cEPs#104](https://github.com/coala/cEPs/pull/104) (open)
 * BanditBear: Add `bandit_select_tests` option [coala-bears#2390](https://github.com/coala/coala-bears/pull/2390) (open)
+* RLintBear - Make an AsciiCinema [coala-bears#864](https://github.com/coala/coala-bears/issues/864) (open)
 
 ### Others:
 
