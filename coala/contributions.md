@@ -48,6 +48,7 @@ The page describes contributions I made to coala community.
 * Add unit test [coala-vs-code#49](https://github.com/coala/coala-vs-code/issues/49) (open)
 * Invalid link to GitHub on coala API Documentation [coala#5316](https://github.com/coala/coala/issues/5316) (open)
 * trailing-whitespace reports wrong column number [pylint#2000](https://github.com/PyCQA/pylint/issues/2000) (upstream) (open)
+* FilterTest.py: change import [coala#5331](https://github.com/coala/coala/issues/5331) (open)
 
 ### PRs I created:
 
@@ -65,6 +66,7 @@ The page describes contributions I made to coala community.
 * cEP-0001: Fix link to newcomer guide [cEPs#104](https://github.com/coala/cEPs/pull/104) (open)
 * BanditBear: Add `bandit_select_tests` option [coala-bears#2390](https://github.com/coala/coala-bears/pull/2390) (open)
 * RLintBear - Make an AsciiCinema [coala-bears#864](https://github.com/coala/coala-bears/issues/864) (open)
+* FilterHelperTest.py: Add `FilterHelperTest` class [coala#5313](https://github.com/coala/coala/pull/5313#pullrequestreview-110245987) (open)
 
 ### Others:
 
