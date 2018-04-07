@@ -6,9 +6,9 @@ The page describes contributions I made to coala community.
 
 * Writing_Good_Commits.rst: Example 3 is misleading [coala#5195](https://github.com/coala/coala/issues/5195) (PR merged)
 * Writing_Documentation.rst: reStructuredText link is not working [coala#5263](https://github.com/coala/coala/issues/5263) (PR merged)
-* No available attributes for Matlab/Octave language [coala#5282](https://github.com/coala/coala/issues/5282) (open)
+* No available attributes for Matlab/Octave language [coala#5282](https://github.com/coala/coala/issues/5282) (PR merged)
 * README.md: Add clearer user instructions [coala-vs-code#29](https://github.com/coala/coala-vs-code/issues/29) (open)
-* GitCommitBear writes redundant messages to stdout [coala-bears#2374](https://github.com/coala/coala-bears/issues/2374) (open)
+* GitCommitBear writes redundant messages to stdout [coala-bears#2374](https://github.com/coala/coala-bears/issues/2374) (PR merged)
 * coalashim.py: subprocess creation causes overhead [coala-vs-code#33](https://github.com/coala/coala-vs-code/issues/33) (PR merged)
 
 ### PRs I created:
@@ -25,7 +25,7 @@ The page describes contributions I made to coala community.
 * FAQ.rst: Fix "ask us!" link [documentation#536](https://github.com/coala/documentation/pull/536) (merged)
 * Review.rst: Update review docs [coala#5200](https://github.com/coala/coala/pull/5200) (merged)
 * Writing native bears tutorials: Parameters changed [coala#5224](https://github.com/coala/coala/pull/5224) (open)
-* PrettierLintBear.py: Add more tests [coala-bears#2341](https://github.com/coala/coala-bears/pull/2341) (open)
+* PrettierLintBear.py: Add more tests [coala-bears#2341](https://github.com/coala/coala-bears/pull/2341) (merged)
 * Makman2/remove rultor [docker-coala-base#252](https://github.com/coala/docker-coala-base/pull/252) (open)
 * Core.py: Removes section from docstring [coala#5271](https://github.com/coala/coala/pull/5271) (merged)
 * Related clang stuff removed [coala#5272](https://github.com/coala/coala/pull/5272) (merged)
@@ -52,7 +52,7 @@ The page describes contributions I made to coala community.
 
 ### PRs I created:
 
-* Matlab.py: Add comment delimiter for Matlab & Octave [coala#5294](https://github.com/coala/coala/pull/5294) (open)
+* Matlab.py: Add comment delimiter for Matlab & Octave [coala#5294](https://github.com/coala/coala/pull/5294) (merged)
 * diagnostic.py: Correct row and column number convention [coala-vs-code#39](https://github.com/coala/coala-vs-code/pull/39) (merged)
 * coalashim.py: Run coala on specific files only [coala-vs-code#42](https://github.com/coala/coala-vs-code/pull/42) (merged)
 * diagnostic.py: Transform severity level [coala-vs-code#45](https://github.com/coala/coala-vs-code/pull/45) (merged)
@@ -65,7 +65,7 @@ The page describes contributions I made to coala community.
 * Add markdown and flow language definitions [coala#5279](https://github.com/coala/coala/pull/5279) (open)
 * cEP-0001: Fix link to newcomer guide [cEPs#104](https://github.com/coala/cEPs/pull/104) (open)
 * BanditBear: Add `bandit_select_tests` option [coala-bears#2390](https://github.com/coala/coala-bears/pull/2390) (open)
-* RLintBear - Make an AsciiCinema [coala-bears#864](https://github.com/coala/coala-bears/issues/864) (open)
+* RLintBear - Make an AsciiCinema [coala-bears#2381](https://github.com/coala/coala-bears/pull/2381) (open)
 * FilterHelperTest.py: Add `FilterHelperTest` class [coala#5313](https://github.com/coala/coala/pull/5313#pullrequestreview-110245987) (open)
 
 ### Others:
