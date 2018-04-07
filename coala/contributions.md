@@ -35,7 +35,7 @@ The page describes contributions I made to coala community.
 
 ### Issues I created:
 
-* Add support for writing ignore comment in Fortran [coala#5296](https://github.com/coala/coala/issues/5296) (open)
+* Add support for writing ignore comment in Fortran [coala#5296](https://github.com/coala/coala/issues/5296) (PR merged)
 * Diagnostic violates LSP convention [coala-vs-code#37](https://github.com/coala/coala-vs-code/issues/37) (PR merged)
 * Add position number convention to linter bear guide [coala#5297](https://github.com/coala/coala/issues/5297) (open)
 * PyLintBear: column number in result violates convention [coala-bears#2393](https://github.com/coala/coala-bears/issues/2393) (open)
@@ -55,7 +55,7 @@ The page describes contributions I made to coala community.
 * diagnostic.py: Correct row and column number convention [coala-vs-code#39](https://github.com/coala/coala-vs-code/pull/39) (merged)
 * coalashim.py: Run coala on specific files only [coala-vs-code#42](https://github.com/coala/coala-vs-code/pull/42) (merged)
 * diagnostic.py: Transform severity level [coala-vs-code#45](https://github.com/coala/coala-vs-code/pull/45) (merged)
-* Fortran.py: Add support for ignore comments [coala#5312](https://github.com/coala/coala/pull/5312) (open)
+* Fortran.py: Add support for ignore comments [coala#5312](https://github.com/coala/coala/pull/5312) (merged)
 * Add unittest [coala-vs-code#50](https://github.com/coala/coala-vs-code/pull/50) (open)
 
 ### PRs I reviewed:
