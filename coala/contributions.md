@@ -49,6 +49,7 @@ The page describes contributions I made to coala community.
 * Invalid link to GitHub on coala API Documentation [coala#5316](https://github.com/coala/coala/issues/5316) (open)
 * trailing-whitespace reports wrong column number [pylint#2000](https://github.com/PyCQA/pylint/issues/2000) (upstream) (open)
 * FilterTest.py: change import [coala#5331](https://github.com/coala/coala/issues/5331) (open)
+* Add Pycycle bear [coala-bears#2411](https://github.com/coala/coala-bears/issues/2411) (open)
 
 ### PRs I created:
 
