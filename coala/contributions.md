@@ -61,6 +61,7 @@ The page describes contributions I made to coala community.
 * diagnostic.py: Transform severity level [coala-vs-code#45](https://github.com/coala/coala-vs-code/pull/45) (merged)
 * Fortran.py: Add support for ignore comments [coala#5312](https://github.com/coala/coala/pull/5312) (merged)
 * Add unittest [coala-vs-code#50](https://github.com/coala/coala-vs-code/pull/50) (open)
+* PyLintBear: Fix column number convention [coala-bears#2413](https://github.com/coala/coala-bears/pull/2413) (open)
 
 ### PRs I reviewed:
 
