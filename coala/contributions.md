@@ -51,6 +51,7 @@ The page describes contributions I made to coala community.
 * FilterTest.py: change import [coala#5331](https://github.com/coala/coala/issues/5331) (open)
 * Add Pycycle bear [coala-bears#2411](https://github.com/coala/coala-bears/issues/2411) (open)
 * Add bear to detect unnecessary nested import in python [coala-bears#2412](https://github.com/coala/coala-bears/issues/2412) (open)
+* Linter_Bears_Advanced.rst: Wrong indentation [coala#5337](https://github.com/coala/coala/issues/5337) (open)
 
 ### PRs I created:
 
