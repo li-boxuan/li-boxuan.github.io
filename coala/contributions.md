@@ -45,7 +45,7 @@ The page describes contributions I made to coala community.
 * diagnostic.py: End position should be exclusive [coala-vs-code#46](https://github.com/coala/coala-vs-code/issues/46) (open)
 * diagnostic.py: line is None means the whole file [coala-vs-code#47](https://github.com/coala/coala-vs-code/issues/47) (open)
 * Result.py: Add docstring regarding the case that line or column is None [coala#5310](https://github.com/coala/coala/issues/5310) (open)
-* Add unit test [coala-vs-code#49](https://github.com/coala/coala-vs-code/issues/49) (open)
+* Add unit test [coala-vs-code#49](https://github.com/coala/coala-vs-code/issues/49) (PR merged)
 * Invalid link to GitHub on coala API Documentation [coala#5316](https://github.com/coala/coala/issues/5316) (open)
 * trailing-whitespace reports wrong column number [pylint#2000](https://github.com/PyCQA/pylint/issues/2000) (upstream) (open)
 * FilterTest.py: change import [coala#5331](https://github.com/coala/coala/issues/5331) (open)
@@ -60,7 +60,7 @@ The page describes contributions I made to coala community.
 * coalashim.py: Run coala on specific files only [coala-vs-code#42](https://github.com/coala/coala-vs-code/pull/42) (merged)
 * diagnostic.py: Transform severity level [coala-vs-code#45](https://github.com/coala/coala-vs-code/pull/45) (merged)
 * Fortran.py: Add support for ignore comments [coala#5312](https://github.com/coala/coala/pull/5312) (merged)
-* Add unittest [coala-vs-code#50](https://github.com/coala/coala-vs-code/pull/50) (open)
+* Add unittest [coala-vs-code#50](https://github.com/coala/coala-vs-code/pull/50) (merged)
 * PyLintBear: Fix column number convention [coala-bears#2413](https://github.com/coala/coala-bears/pull/2413) (open)
 
 ### PRs I reviewed:
