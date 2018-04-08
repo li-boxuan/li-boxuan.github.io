@@ -65,6 +65,7 @@ The page describes contributions I made to coala community.
 
 ### PRs I reviewed:
 
+* Add markdown language definition [coala#5279](https://github.com/coala/coala/pull/5279) (merged)
 * Tutorial.rst: Rewrite all mentions of Default [documentaion#537](https://github.com/coala/documentation/pull/537) (open)
 * Add markdown and flow language definitions [coala#5279](https://github.com/coala/coala/pull/5279) (open)
 * cEP-0001: Fix link to newcomer guide [cEPs#104](https://github.com/coala/cEPs/pull/104) (open)
