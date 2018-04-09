@@ -62,6 +62,7 @@ The page describes contributions I made to coala community.
 * Fortran.py: Add support for ignore comments [coala#5312](https://github.com/coala/coala/pull/5312) (merged)
 * Add unittest [coala-vs-code#50](https://github.com/coala/coala-vs-code/pull/50) (merged)
 * PyLintBear: Fix column number convention [coala-bears#2413](https://github.com/coala/coala-bears/pull/2413) (open)
+* linter: Add new parameter `convert_index` [coala#5350](https://github.com/coala/coala/pull/5350) (open)
 
 ### PRs I reviewed:
 
