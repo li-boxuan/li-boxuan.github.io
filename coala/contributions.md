@@ -65,6 +65,7 @@ The page describes contributions I made to coala community.
 * Add unittest [coala-vs-code#50](https://github.com/coala/coala-vs-code/pull/50) (merged)
 * PyLintBear: Fix column number convention [coala-bears#2413](https://github.com/coala/coala-bears/pull/2413) (open)
 * linter: Add new parameter `convert_index` [coala#5350](https://github.com/coala/coala/pull/5350) (open)
+* TextPosition.py: Warn about zero line or column [coala#5367](https://github.com/coala/coala/pull/5367) (open)
 
 ### PRs I reviewed:
 
