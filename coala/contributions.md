@@ -54,6 +54,7 @@ The page describes contributions I made to coala community.
 * Linter_Bears_Advanced.rst: Wrong indentation [coala#5337](https://github.com/coala/coala/issues/5337) (open)
 * coala core needs a warning/error if it sees a 0 col or row [coala#5355](https://github.com/coala/coala/issues/5355) (open)
 * Incorrect one-based column number for whitespace conventions [pylint#2012](https://github.com/PyCQA/pylint/issues/2012) (upstream) (open)
+* Typo in DocstyleDefinitionTest, TextPositionTest & TextRangeTest [coala#5373](https://github.com/coala/coala/issues/5373) (open)
 
 ### PRs I created:
 
