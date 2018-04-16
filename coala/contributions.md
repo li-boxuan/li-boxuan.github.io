@@ -67,6 +67,7 @@ The page describes contributions I made to coala community.
 * PyLintBear: Fix column number convention [coala-bears#2413](https://github.com/coala/coala-bears/pull/2413) (open)
 * linter: Add new parameter `convert_index` [coala#5350](https://github.com/coala/coala/pull/5350) (open)
 * TextPosition.py: Warn about zero line or column [coala#5367](https://github.com/coala/coala/pull/5367) (open)
+* scrape.js: Use GraphQL API [gci-leaders#148](https://github.com/coala/gci-leaders/pull/148) (open)
 
 ### PRs I reviewed:
 
