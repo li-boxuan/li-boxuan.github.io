@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: http://li-boxuan.github.io
+url: https://li-boxuan.github.io
 date_format: "ordinal"
 title: Boxuan Li's Blog
 author: Boxuan Li
