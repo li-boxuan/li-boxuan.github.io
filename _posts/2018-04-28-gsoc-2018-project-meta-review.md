@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GSoC'2018 Project: Meta-review
+title: GSoC' 2018 Project Meta-review
 categories: [gsoc, meta-review, coala]
 description: gsoc, meta-review, coala
 keywords: gsoc, coala
