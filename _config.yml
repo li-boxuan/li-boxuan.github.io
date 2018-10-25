@@ -6,10 +6,10 @@ url: https://www.li-boxuan.com
 
 # Owner/author information
 owner:
-  name:           Boxuan Li
-  avatar:         li-boxuan.jpg
+  name: Boxuan Li
+  avatar: li-boxuan.jpg
 #  bio:
-  email:          liboxuan@connect.hku.hk
+  email: liboxuan@connect.hku.hk
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
@@ -41,6 +41,8 @@ links:
     url: /study/
   - title: Open Source
     url: /open-source/
+  - title: Tutoring
+    url: /tutoring/
   - title: Blog
     url: /blog
 
