@@ -1,10 +1,15 @@
-<div class="nav">
-    <div class="nav_nav">
-        <a class="nav_a1" href="{{ site.url }}/">Homepage</a>
-        <a href="{{ site.url }}/categories/">Categories</a>
-        <a class="nav_a1" href="{{ site.url }}/wiki/">Wiki</a>
-        <a href="{{ site.url }}/links/">Links</a>
-        <a class="nav_a1" href="{{ site.url }}/about/">About</a>
-    </div>
-    <div class="nav_rss"><a href="{{ site.url }}/sitemap.xml" style="display:none;">SITEMAP</a><a href="{{ site.url }}/feed.xml" target="_blank">RSS</a></div>
-</div>
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="{{ site.url }}">{{ site.title }}</a>
+	</div><!-- /.site-name -->
+  {% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
+	<div class="top-navigation">
+		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+		    <ul>
+		        {% for link in site.links %}
+            <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
+		        {% endfor %}
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
