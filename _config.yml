@@ -33,10 +33,14 @@ links:
     url: /
   - title: Projects
     url: /projects/
-  - title: Publications
+  - title: Publication
     url: /publications/
-  - title: Experience
-    url: /experience/
+  - title: Work
+    url: /work/
+  - title: Study
+    url: /study/
+  - title: Open Source
+    url: /open-source/
   - title: Blog
     url: /blog
 
