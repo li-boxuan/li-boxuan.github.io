@@ -3,6 +3,11 @@ layout: page
 permalink: /projects/index.html
 title: Projects
 ---
+#### [codebench: Automated code benchmark solution](https://github.com/li-boxuan/codebench) [![GitHub stars](https://img.shields.io/github/stars/li-boxuan/codebench.svg?style=social&label=Star)](https://github.com/li-boxuan/codebench)
+
+Ongoing | Solo | Python
+- Design, Implementation, Documentation
+
 #### [CS Graduate School Admission: Analysis and Prediction](https://github.com/JRChow/cs-grad-school-admission)
 
 Fall 2018 | Team work | Python, R, sklearn
