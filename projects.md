@@ -8,7 +8,7 @@ title: Projects
 Ongoing | Solo | Python
 - Design, Implementation, Documentation
 
-#### [CS Graduate School Admission: Analysis and Prediction](https://github.com/JRChow/cs-grad-school-admission)
+#### [CS Graduate School Admission: Analysis and Prediction](https://github.com/JRChow/cs-grad-school-admission) [![GitHub stars](https://img.shields.io/github/stars/JRChow/cs-grad-school-admission.svg?style=social&label=Star)](https://github.com/JRChow/cs-grad-school-admission)
 
 Fall 2018 | Team work | Python, R, sklearn
 - Report, presentation
