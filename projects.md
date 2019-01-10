@@ -3,6 +3,13 @@ layout: page
 permalink: /projects/index.html
 title: Projects
 ---
+#### [Motif-G - A Motif-based Graph Analysis Platform](https://www.li-boxuan.com/final-year-project/)
+
+Ongoing | Solo | Java, JavaScript, Python
+- Improved algorithm performance by 1%
+- Case Studies on bioinformatics (data cleaning, visualization and analysis)
+- Web platform development (deliver a generic motif-based query system)
+
 #### [codebench: Automated code benchmark solution](https://github.com/li-boxuan/codebench) [![GitHub stars](https://img.shields.io/github/stars/li-boxuan/codebench.svg?style=social&label=Star)](https://github.com/li-boxuan/codebench)
 
 Ongoing | Solo | Python
