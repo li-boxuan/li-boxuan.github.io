@@ -10,10 +10,17 @@ Ongoing | Solo | Java, JavaScript, Python
 - Case Studies on bioinformatics (data cleaning, visualization and analysis)
 - Web platform development (deliver a generic motif-based query system)
 
+#### [Regex Checker](https://github.com/li-boxuan/Regex-Checker) [![GitHub stars](https://img.shields.io/github/stars/li-boxuan/Regex-Checker.svg?style=social&label=Star)](https://github.com/li-boxuan/Regex-Checker)
+
+Ongoing | Solo | JavaScript
+- A useful GitHub App that automatically checks whether pull request titles
+match user-defined patterns, or contain some disallowed patterns.
+
 #### [codebench: Automated code benchmark solution](https://github.com/li-boxuan/codebench) [![GitHub stars](https://img.shields.io/github/stars/li-boxuan/codebench.svg?style=social&label=Star)](https://github.com/li-boxuan/codebench)
 
 Ongoing | Solo | Python
-- Design, Implementation, Documentation
+- A useful command line program which helps track performance changes among commits.
+A `git blame` tool for performance.
 
 #### [CS Graduate School Admission: Analysis and Prediction](https://github.com/JRChow/cs-grad-school-admission) [![GitHub stars](https://img.shields.io/github/stars/JRChow/cs-grad-school-admission.svg?style=social&label=Star)](https://github.com/JRChow/cs-grad-school-admission)
 
