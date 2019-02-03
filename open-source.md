@@ -3,14 +3,14 @@ layout: page
 permalink: /open-source/index.html
 title: Open Source Experience
 ---
-last updated at Oct 25, 2018
+last updated at Feb 03, 2019
 
 ### [coala] Maintainer [![GitHub stars](https://img.shields.io/github/stars/coala/coala.svg?style=social&label=Star)](https://github.com/coala) [![GitHub forks](https://img.shields.io/github/forks/coala/coala.svg?style=social&label=Fork)](https://github.com/coala)
 
 Developer: Feb - Sep 2018, Maintainer: Oct 2018 - Present
-- Filed [80+](https://github.com/search?q=org%3Acoala+author%3Ali-boxuan+is%3Aissue&type=Issues) issues
+- Filed [100+](https://github.com/search?q=org%3Acoala+author%3Ali-boxuan+is%3Aissue&type=Issues) issues
 - Created [60+](https://github.com/search?q=org%3Acoala+author%3Ali-boxuan+is%3Apr&type=Issues) Pull Requests,
-- Reviewed [150+](https://github.com/search?q=org%3Acoala+commenter%3Ali-boxuan+is%3Apr&type=Issues) Pull Requests
+- Reviewed [240+](https://github.com/search?q=org%3Acoala+commenter%3Ali-boxuan+is%3Apr&type=Issues) Pull Requests
 
 [coala]: https://github.com/coala
 
@@ -24,9 +24,9 @@ Maintainer: Apr 2018 - Present
 [GSoC-CN]: https://github.com/gsoc-cn
 
 
-### [Google Code-in Mentor] (Oct 2018 - Present)
+### [Google Code-in Mentor] (Oct - Dec 2018)
 
-- Supervising pre-university students to contribute to open-source organizations
+- Supervised pre-university students to contribute to open-source organizations
 
 [Google Code-in Mentor]: https://codein.withgoogle.com/organizations/coala
 

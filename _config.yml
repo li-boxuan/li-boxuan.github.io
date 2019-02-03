@@ -31,6 +31,8 @@ bing_verify:
 links:
   - title: About Me
     url: /
+  - title: Open Source
+    url: /open-source/
   - title: Projects
     url: /projects/
   - title: Publication
@@ -39,8 +41,6 @@ links:
     url: /work/
   - title: Study
     url: /study/
-  - title: Open Source
-    url: /open-source/
   - title: Tutoring
     url: /tutoring/
   - title: Blog
